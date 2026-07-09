@@ -1,16 +1,9 @@
 # Zomato-Sales
 <div align="center">
 
-# 🍽️ Zomato Sales Analytics Dashboard
+# Zomato Sales Analytics Dashboard
 
 ### End-to-End Data Analytics Project using Excel • MySQL • Power BI
-
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-EA4335?style=for-the-badge"/>
-</p>
 
 An interactive Business Intelligence dashboard developed using **Excel, MySQL, and Power BI** to analyze Zomato sales performance, customer behavior, restaurant operations, delivery performance, and revenue insights.
 
