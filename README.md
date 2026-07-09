@@ -1,5 +1,4 @@
 # Zomato-Sales
-<div align="center">
 
 # Zomato Sales Analytics Dashboard
 
