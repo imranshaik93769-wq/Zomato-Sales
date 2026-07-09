@@ -1,0 +1,301 @@
+restaurant_id,restaurant_name,city,opening_hours
+1,Paradise Biryani,Chennai,10:00 AM - 11:00 PM
+2,Domino's,Mumbai,10:00 AM - 11:00 PM
+3,Domino's,Chennai,10:00 AM - 11:00 PM
+4,Pista House,Mumbai,10:00 AM - 11:00 PM
+5,Pista House,Bengaluru,10:00 AM - 11:00 PM
+6,Meghana Foods,Mumbai,10:00 AM - 11:00 PM
+7,Subway,Delhi,10:00 AM - 11:00 PM
+8,Domino's,Mumbai,10:00 AM - 11:00 PM
+9,Meghana Foods,Mumbai,10:00 AM - 11:00 PM
+10,Paradise Biryani,Bengaluru,10:00 AM - 11:00 PM
+11,Pista House,Kolkata,10:00 AM - 11:00 PM
+12,Pizza Hut,Pune,10:00 AM - 11:00 PM
+13,Burger King,Delhi,10:00 AM - 11:00 PM
+14,Pizza Hut,Mumbai,10:00 AM - 11:00 PM
+15,McDonald's,Kolkata,10:00 AM - 11:00 PM
+16,Pizza Hut,Chennai,10:00 AM - 11:00 PM
+17,Burger King,Delhi,10:00 AM - 11:00 PM
+18,Domino's,Mumbai,10:00 AM - 11:00 PM
+19,Pista House,Kolkata,10:00 AM - 11:00 PM
+20,Domino's,Chennai,10:00 AM - 11:00 PM
+21,Pista House,Hyderabad,10:00 AM - 11:00 PM
+22,KFC,Bengaluru,10:00 AM - 11:00 PM
+23,Paradise Biryani,Bengaluru,10:00 AM - 11:00 PM
+24,Domino's,Hyderabad,10:00 AM - 11:00 PM
+25,Pista House,Mumbai,10:00 AM - 11:00 PM
+26,Domino's,Pune,10:00 AM - 11:00 PM
+27,Pista House,Delhi,10:00 AM - 11:00 PM
+28,Meghana Foods,Delhi,10:00 AM - 11:00 PM
+29,Paradise Biryani,Delhi,10:00 AM - 11:00 PM
+30,Burger King,Pune,10:00 AM - 11:00 PM
+31,Subway,Delhi,10:00 AM - 11:00 PM
+32,Pista House,Delhi,10:00 AM - 11:00 PM
+33,Meghana Foods,Kolkata,10:00 AM - 11:00 PM
+34,Domino's,Hyderabad,10:00 AM - 11:00 PM
+35,Burger King,Hyderabad,10:00 AM - 11:00 PM
+36,KFC,Kolkata,10:00 AM - 11:00 PM
+37,Pizza Hut,Bengaluru,10:00 AM - 11:00 PM
+38,Domino's,Pune,10:00 AM - 11:00 PM
+39,Subway,Kolkata,10:00 AM - 11:00 PM
+40,Pizza Hut,Chennai,10:00 AM - 11:00 PM
+41,McDonald's,Bengaluru,10:00 AM - 11:00 PM
+42,McDonald's,Hyderabad,10:00 AM - 11:00 PM
+43,Subway,Kolkata,10:00 AM - 11:00 PM
+44,McDonald's,Bengaluru,10:00 AM - 11:00 PM
+45,Bawarchi,Hyderabad,10:00 AM - 11:00 PM
+46,KFC,Kolkata,10:00 AM - 11:00 PM
+47,Pista House,Pune,10:00 AM - 11:00 PM
+48,Meghana Foods,Mumbai,10:00 AM - 11:00 PM
+49,Paradise Biryani,Mumbai,10:00 AM - 11:00 PM
+50,Meghana Foods,Delhi,10:00 AM - 11:00 PM
+51,Burger King,Chennai,10:00 AM - 11:00 PM
+52,Meghana Foods,Kolkata,10:00 AM - 11:00 PM
+53,Burger King,Bengaluru,10:00 AM - 11:00 PM
+54,Paradise Biryani,Hyderabad,10:00 AM - 11:00 PM
+55,Pista House,Kolkata,10:00 AM - 11:00 PM
+56,Pista House,Delhi,10:00 AM - 11:00 PM
+57,Pizza Hut,Chennai,10:00 AM - 11:00 PM
+58,Paradise Biryani,Mumbai,10:00 AM - 11:00 PM
+59,Paradise Biryani,Pune,10:00 AM - 11:00 PM
+60,McDonald's,Delhi,10:00 AM - 11:00 PM
+61,Burger King,Pune,10:00 AM - 11:00 PM
+62,McDonald's,Bengaluru,10:00 AM - 11:00 PM
+63,KFC,Kolkata,10:00 AM - 11:00 PM
+64,Paradise Biryani,Kolkata,10:00 AM - 11:00 PM
+65,Pizza Hut,Mumbai,10:00 AM - 11:00 PM
+66,Paradise Biryani,Pune,10:00 AM - 11:00 PM
+67,Meghana Foods,Chennai,10:00 AM - 11:00 PM
+68,McDonald's,Delhi,10:00 AM - 11:00 PM
+69,Meghana Foods,Delhi,10:00 AM - 11:00 PM
+70,Pizza Hut,Bengaluru,10:00 AM - 11:00 PM
+71,KFC,Kolkata,10:00 AM - 11:00 PM
+72,Bawarchi,Hyderabad,10:00 AM - 11:00 PM
+73,Paradise Biryani,Kolkata,10:00 AM - 11:00 PM
+74,KFC,Bengaluru,10:00 AM - 11:00 PM
+75,Bawarchi,Kolkata,10:00 AM - 11:00 PM
+76,Bawarchi,Mumbai,10:00 AM - 11:00 PM
+77,Domino's,Hyderabad,10:00 AM - 11:00 PM
+78,Pizza Hut,Delhi,10:00 AM - 11:00 PM
+79,Bawarchi,Pune,10:00 AM - 11:00 PM
+80,Pizza Hut,Pune,10:00 AM - 11:00 PM
+81,McDonald's,Bengaluru,10:00 AM - 11:00 PM
+82,Burger King,Pune,10:00 AM - 11:00 PM
+83,Meghana Foods,Kolkata,10:00 AM - 11:00 PM
+84,Burger King,Chennai,10:00 AM - 11:00 PM
+85,KFC,Delhi,10:00 AM - 11:00 PM
+86,Pista House,Delhi,10:00 AM - 11:00 PM
+87,Pista House,Mumbai,10:00 AM - 11:00 PM
+88,McDonald's,Chennai,10:00 AM - 11:00 PM
+89,Bawarchi,Hyderabad,10:00 AM - 11:00 PM
+90,Bawarchi,Kolkata,10:00 AM - 11:00 PM
+91,Burger King,Chennai,10:00 AM - 11:00 PM
+92,Domino's,Delhi,10:00 AM - 11:00 PM
+93,Bawarchi,Hyderabad,10:00 AM - 11:00 PM
+94,Paradise Biryani,Chennai,10:00 AM - 11:00 PM
+95,Burger King,Delhi,10:00 AM - 11:00 PM
+96,KFC,Pune,10:00 AM - 11:00 PM
+97,Domino's,Delhi,10:00 AM - 11:00 PM
+98,Subway,Pune,10:00 AM - 11:00 PM
+99,Subway,Hyderabad,10:00 AM - 11:00 PM
+100,Pizza Hut,Delhi,10:00 AM - 11:00 PM
+101,Bawarchi,Hyderabad,10:00 AM - 11:00 PM
+102,Pista House,Mumbai,10:00 AM - 11:00 PM
+103,Domino's,Bengaluru,10:00 AM - 11:00 PM
+104,Pizza Hut,Kolkata,10:00 AM - 11:00 PM
+105,KFC,Chennai,10:00 AM - 11:00 PM
+106,Bawarchi,Mumbai,10:00 AM - 11:00 PM
+107,McDonald's,Hyderabad,10:00 AM - 11:00 PM
+108,Subway,Hyderabad,10:00 AM - 11:00 PM
+109,Paradise Biryani,Chennai,10:00 AM - 11:00 PM
+110,Meghana Foods,Chennai,10:00 AM - 11:00 PM
+111,Bawarchi,Delhi,10:00 AM - 11:00 PM
+112,Meghana Foods,Delhi,10:00 AM - 11:00 PM
+113,McDonald's,Kolkata,10:00 AM - 11:00 PM
+114,Pizza Hut,Mumbai,10:00 AM - 11:00 PM
+115,Pizza Hut,Chennai,10:00 AM - 11:00 PM
+116,Meghana Foods,Kolkata,10:00 AM - 11:00 PM
+117,Subway,Hyderabad,10:00 AM - 11:00 PM
+118,Meghana Foods,Pune,10:00 AM - 11:00 PM
+119,Pista House,Bengaluru,10:00 AM - 11:00 PM
+120,Domino's,Kolkata,10:00 AM - 11:00 PM
+121,Bawarchi,Hyderabad,10:00 AM - 11:00 PM
+122,Meghana Foods,Delhi,10:00 AM - 11:00 PM
+123,Pizza Hut,Mumbai,10:00 AM - 11:00 PM
+124,McDonald's,Pune,10:00 AM - 11:00 PM
+125,Pista House,Kolkata,10:00 AM - 11:00 PM
+126,Pista House,Chennai,10:00 AM - 11:00 PM
+127,Pizza Hut,Mumbai,10:00 AM - 11:00 PM
+128,Domino's,Bengaluru,10:00 AM - 11:00 PM
+129,Domino's,Hyderabad,10:00 AM - 11:00 PM
+130,McDonald's,Mumbai,10:00 AM - 11:00 PM
+131,Meghana Foods,Delhi,10:00 AM - 11:00 PM
+132,Subway,Hyderabad,10:00 AM - 11:00 PM
+133,Paradise Biryani,Delhi,10:00 AM - 11:00 PM
+134,Meghana Foods,Hyderabad,10:00 AM - 11:00 PM
+135,Domino's,Pune,10:00 AM - 11:00 PM
+136,Pista House,Delhi,10:00 AM - 11:00 PM
+137,Bawarchi,Kolkata,10:00 AM - 11:00 PM
+138,McDonald's,Pune,10:00 AM - 11:00 PM
+139,Pista House,Mumbai,10:00 AM - 11:00 PM
+140,McDonald's,Kolkata,10:00 AM - 11:00 PM
+141,McDonald's,Mumbai,10:00 AM - 11:00 PM
+142,Bawarchi,Kolkata,10:00 AM - 11:00 PM
+143,Pizza Hut,Hyderabad,10:00 AM - 11:00 PM
+144,Domino's,Bengaluru,10:00 AM - 11:00 PM
+145,Paradise Biryani,Bengaluru,10:00 AM - 11:00 PM
+146,Meghana Foods,Kolkata,10:00 AM - 11:00 PM
+147,Paradise Biryani,Pune,10:00 AM - 11:00 PM
+148,KFC,Kolkata,10:00 AM - 11:00 PM
+149,Paradise Biryani,Bengaluru,10:00 AM - 11:00 PM
+150,Pista House,Pune,10:00 AM - 11:00 PM
+151,Domino's,Pune,10:00 AM - 11:00 PM
+152,KFC,Delhi,10:00 AM - 11:00 PM
+153,Subway,Bengaluru,10:00 AM - 11:00 PM
+154,Meghana Foods,Mumbai,10:00 AM - 11:00 PM
+155,Pista House,Bengaluru,10:00 AM - 11:00 PM
+156,Pista House,Delhi,10:00 AM - 11:00 PM
+157,Paradise Biryani,Hyderabad,10:00 AM - 11:00 PM
+158,Domino's,Bengaluru,10:00 AM - 11:00 PM
+159,Pista House,Delhi,10:00 AM - 11:00 PM
+160,Pista House,Hyderabad,10:00 AM - 11:00 PM
+161,Pista House,Chennai,10:00 AM - 11:00 PM
+162,KFC,Bengaluru,10:00 AM - 11:00 PM
+163,Pizza Hut,Chennai,10:00 AM - 11:00 PM
+164,Bawarchi,Hyderabad,10:00 AM - 11:00 PM
+165,Burger King,Hyderabad,10:00 AM - 11:00 PM
+166,Meghana Foods,Pune,10:00 AM - 11:00 PM
+167,Bawarchi,Delhi,10:00 AM - 11:00 PM
+168,Pista House,Pune,10:00 AM - 11:00 PM
+169,McDonald's,Chennai,10:00 AM - 11:00 PM
+170,Subway,Mumbai,10:00 AM - 11:00 PM
+171,Paradise Biryani,Delhi,10:00 AM - 11:00 PM
+172,Bawarchi,Delhi,10:00 AM - 11:00 PM
+173,Subway,Chennai,10:00 AM - 11:00 PM
+174,McDonald's,Pune,10:00 AM - 11:00 PM
+175,Pista House,Bengaluru,10:00 AM - 11:00 PM
+176,Paradise Biryani,Chennai,10:00 AM - 11:00 PM
+177,Paradise Biryani,Delhi,10:00 AM - 11:00 PM
+178,McDonald's,Mumbai,10:00 AM - 11:00 PM
+179,Subway,Hyderabad,10:00 AM - 11:00 PM
+180,Pizza Hut,Pune,10:00 AM - 11:00 PM
+181,Bawarchi,Delhi,10:00 AM - 11:00 PM
+182,Meghana Foods,Delhi,10:00 AM - 11:00 PM
+183,McDonald's,Pune,10:00 AM - 11:00 PM
+184,Burger King,Delhi,10:00 AM - 11:00 PM
+185,Bawarchi,Hyderabad,10:00 AM - 11:00 PM
+186,Domino's,Mumbai,10:00 AM - 11:00 PM
+187,KFC,Delhi,10:00 AM - 11:00 PM
+188,Burger King,Delhi,10:00 AM - 11:00 PM
+189,KFC,Chennai,10:00 AM - 11:00 PM
+190,KFC,Chennai,10:00 AM - 11:00 PM
+191,Burger King,Chennai,10:00 AM - 11:00 PM
+192,Pista House,Bengaluru,10:00 AM - 11:00 PM
+193,Pizza Hut,Pune,10:00 AM - 11:00 PM
+194,Bawarchi,Delhi,10:00 AM - 11:00 PM
+195,Burger King,Kolkata,10:00 AM - 11:00 PM
+196,Pista House,Kolkata,10:00 AM - 11:00 PM
+197,Domino's,Chennai,10:00 AM - 11:00 PM
+198,KFC,Mumbai,10:00 AM - 11:00 PM
+199,Meghana Foods,Pune,10:00 AM - 11:00 PM
+200,Pista House,Bengaluru,10:00 AM - 11:00 PM
+201,Domino's,Bengaluru,10:00 AM - 11:00 PM
+202,Domino's,Chennai,10:00 AM - 11:00 PM
+203,Pista House,Hyderabad,10:00 AM - 11:00 PM
+204,Bawarchi,Delhi,10:00 AM - 11:00 PM
+205,Pizza Hut,Bengaluru,10:00 AM - 11:00 PM
+206,KFC,Chennai,10:00 AM - 11:00 PM
+207,Paradise Biryani,Hyderabad,10:00 AM - 11:00 PM
+208,Burger King,Mumbai,10:00 AM - 11:00 PM
+209,Burger King,Pune,10:00 AM - 11:00 PM
+210,Domino's,Bengaluru,10:00 AM - 11:00 PM
+211,Subway,Hyderabad,10:00 AM - 11:00 PM
+212,Meghana Foods,Mumbai,10:00 AM - 11:00 PM
+213,Bawarchi,Hyderabad,10:00 AM - 11:00 PM
+214,McDonald's,Bengaluru,10:00 AM - 11:00 PM
+215,Meghana Foods,Chennai,10:00 AM - 11:00 PM
+216,KFC,Delhi,10:00 AM - 11:00 PM
+217,Pizza Hut,Mumbai,10:00 AM - 11:00 PM
+218,Burger King,Kolkata,10:00 AM - 11:00 PM
+219,Paradise Biryani,Kolkata,10:00 AM - 11:00 PM
+220,Subway,Mumbai,10:00 AM - 11:00 PM
+221,Domino's,Kolkata,10:00 AM - 11:00 PM
+222,Subway,Chennai,10:00 AM - 11:00 PM
+223,Meghana Foods,Pune,10:00 AM - 11:00 PM
+224,Paradise Biryani,Delhi,10:00 AM - 11:00 PM
+225,Pista House,Kolkata,10:00 AM - 11:00 PM
+226,Meghana Foods,Hyderabad,10:00 AM - 11:00 PM
+227,McDonald's,Chennai,10:00 AM - 11:00 PM
+228,Meghana Foods,Kolkata,10:00 AM - 11:00 PM
+229,Subway,Hyderabad,10:00 AM - 11:00 PM
+230,Subway,Hyderabad,10:00 AM - 11:00 PM
+231,Domino's,Pune,10:00 AM - 11:00 PM
+232,Meghana Foods,Kolkata,10:00 AM - 11:00 PM
+233,KFC,Mumbai,10:00 AM - 11:00 PM
+234,Domino's,Pune,10:00 AM - 11:00 PM
+235,Pizza Hut,Pune,10:00 AM - 11:00 PM
+236,Pista House,Kolkata,10:00 AM - 11:00 PM
+237,Subway,Delhi,10:00 AM - 11:00 PM
+238,Meghana Foods,Bengaluru,10:00 AM - 11:00 PM
+239,Burger King,Mumbai,10:00 AM - 11:00 PM
+240,Domino's,Hyderabad,10:00 AM - 11:00 PM
+241,KFC,Delhi,10:00 AM - 11:00 PM
+242,Bawarchi,Kolkata,10:00 AM - 11:00 PM
+243,Paradise Biryani,Bengaluru,10:00 AM - 11:00 PM
+244,Pista House,Mumbai,10:00 AM - 11:00 PM
+245,Pizza Hut,Chennai,10:00 AM - 11:00 PM
+246,Domino's,Hyderabad,10:00 AM - 11:00 PM
+247,Pizza Hut,Mumbai,10:00 AM - 11:00 PM
+248,Bawarchi,Mumbai,10:00 AM - 11:00 PM
+249,KFC,Bengaluru,10:00 AM - 11:00 PM
+250,Subway,Delhi,10:00 AM - 11:00 PM
+251,KFC,Bengaluru,10:00 AM - 11:00 PM
+252,Bawarchi,Delhi,10:00 AM - 11:00 PM
+253,Bawarchi,Delhi,10:00 AM - 11:00 PM
+254,Subway,Kolkata,10:00 AM - 11:00 PM
+255,Burger King,Hyderabad,10:00 AM - 11:00 PM
+256,Pista House,Bengaluru,10:00 AM - 11:00 PM
+257,Paradise Biryani,Pune,10:00 AM - 11:00 PM
+258,Subway,Hyderabad,10:00 AM - 11:00 PM
+259,Meghana Foods,Mumbai,10:00 AM - 11:00 PM
+260,Burger King,Delhi,10:00 AM - 11:00 PM
+261,Domino's,Delhi,10:00 AM - 11:00 PM
+262,Paradise Biryani,Delhi,10:00 AM - 11:00 PM
+263,Paradise Biryani,Pune,10:00 AM - 11:00 PM
+264,Domino's,Chennai,10:00 AM - 11:00 PM
+265,Paradise Biryani,Pune,10:00 AM - 11:00 PM
+266,Subway,Mumbai,10:00 AM - 11:00 PM
+267,Bawarchi,Delhi,10:00 AM - 11:00 PM
+268,Subway,Kolkata,10:00 AM - 11:00 PM
+269,Pizza Hut,Pune,10:00 AM - 11:00 PM
+270,Burger King,Mumbai,10:00 AM - 11:00 PM
+271,Paradise Biryani,Kolkata,10:00 AM - 11:00 PM
+272,Pizza Hut,Chennai,10:00 AM - 11:00 PM
+273,McDonald's,Bengaluru,10:00 AM - 11:00 PM
+274,Bawarchi,Delhi,10:00 AM - 11:00 PM
+275,KFC,Chennai,10:00 AM - 11:00 PM
+276,McDonald's,Kolkata,10:00 AM - 11:00 PM
+277,McDonald's,Pune,10:00 AM - 11:00 PM
+278,Pista House,Pune,10:00 AM - 11:00 PM
+279,Burger King,Kolkata,10:00 AM - 11:00 PM
+280,Bawarchi,Kolkata,10:00 AM - 11:00 PM
+281,KFC,Mumbai,10:00 AM - 11:00 PM
+282,Meghana Foods,Hyderabad,10:00 AM - 11:00 PM
+283,Subway,Mumbai,10:00 AM - 11:00 PM
+284,Bawarchi,Pune,10:00 AM - 11:00 PM
+285,Domino's,Chennai,10:00 AM - 11:00 PM
+286,Subway,Mumbai,10:00 AM - 11:00 PM
+287,KFC,Hyderabad,10:00 AM - 11:00 PM
+288,Subway,Chennai,10:00 AM - 11:00 PM
+289,Pizza Hut,Chennai,10:00 AM - 11:00 PM
+290,Burger King,Kolkata,10:00 AM - 11:00 PM
+291,Domino's,Hyderabad,10:00 AM - 11:00 PM
+292,Paradise Biryani,Kolkata,10:00 AM - 11:00 PM
+293,Subway,Chennai,10:00 AM - 11:00 PM
+294,Pizza Hut,Bengaluru,10:00 AM - 11:00 PM
+295,Pizza Hut,Pune,10:00 AM - 11:00 PM
+296,Bawarchi,Chennai,10:00 AM - 11:00 PM
+297,Meghana Foods,Pune,10:00 AM - 11:00 PM
+298,Paradise Biryani,Kolkata,10:00 AM - 11:00 PM
+299,Burger King,Mumbai,10:00 AM - 11:00 PM
+300,Subway,Mumbai,10:00 AM - 11:00 PM
